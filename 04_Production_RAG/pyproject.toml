@@ -24,4 +24,5 @@ dependencies = [
     "grandalf>=0.8",
     "pandas>=2.2.3",
     "pyppeteer>=2.0.0",
+    "chainlit>=0.7.0",
 ]
